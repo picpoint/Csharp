@@ -1,0 +1,12 @@
+/.idea
+/.vscode
+/node_modules
+/vendor
+/bin
+/obj
+/Properties
+App
+ProjectVariables
+npm-debug.log
+yarn-error.log
+debug.log

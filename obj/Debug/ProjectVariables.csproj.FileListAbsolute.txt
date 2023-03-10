@@ -1,0 +1,7 @@
+E:\Docs\ЯЗЫКИ\PRACTIC\C-sharp\01_Variables\AppVariables\ProjectVariables\bin\Debug\ProjectVariables.exe.config
+E:\Docs\ЯЗЫКИ\PRACTIC\C-sharp\01_Variables\AppVariables\ProjectVariables\bin\Debug\ProjectVariables.exe
+E:\Docs\ЯЗЫКИ\PRACTIC\C-sharp\01_Variables\AppVariables\ProjectVariables\bin\Debug\ProjectVariables.pdb
+E:\Docs\ЯЗЫКИ\PRACTIC\C-sharp\01_Variables\AppVariables\ProjectVariables\obj\Debug\ProjectVariables.csproj.AssemblyReference.cache
+E:\Docs\ЯЗЫКИ\PRACTIC\C-sharp\01_Variables\AppVariables\ProjectVariables\obj\Debug\ProjectVariables.csproj.CoreCompileInputs.cache
+E:\Docs\ЯЗЫКИ\PRACTIC\C-sharp\01_Variables\AppVariables\ProjectVariables\obj\Debug\ProjectVariables.exe
+E:\Docs\ЯЗЫКИ\PRACTIC\C-sharp\01_Variables\AppVariables\ProjectVariables\obj\Debug\ProjectVariables.pdb
